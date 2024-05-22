@@ -1,0 +1,10 @@
+Statistics
+Total txt files: 38
+business: 15.79%
+entertainment: 18.42%
+graphics: 13.16%
+historical: 15.79%
+medical: 10.53%
+space: 13.16%
+sports: 13.16%
+Top 10 keywords nasa, ancient, war, museum, space, film, world, design, graphic, ruins.

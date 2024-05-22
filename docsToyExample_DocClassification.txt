@@ -1,0 +1,38 @@
+document_1.txt: business profit: 0, loss: 0, share: 0, growth: 1, economy: 2, prices: 1, sales: 0, agreement: 0
+document_10.txt: space space: 23, launch: 1, complex: 0, intelligence: 0, hazardous: 0, planet: 2, orbit: 4, nasa: 38, government: 0
+document_11.txt: space space: 2, launch: 1, complex: 1, intelligence: 1, hazardous: 0, planet: 0, orbit: 0, nasa: 0, government: 0
+document_12.txt: historical ancient: 7, museum: 1, century: 6, ruins: 13, war: 0, treaty: 0, empire: 0
+document_13.txt: historical ancient: 12, museum: 8, century: 0, ruins: 0, war: 0, treaty: 0, empire: 0
+document_14.txt: graphics fractals: 0, compression: 0, project: 0, design: 2, graphic: 1, visual: 2, processing: 0, image: 1
+document_15.txt: medical physician: 2, infection: 0, patient: 1, care: 2, health: 0, disease: 0, diagnosis: 0, doctor: 0, medicine: 0
+document_16.txt: sports medal: 4, record: 1, score: 0, participate: 0, world: 1, team: 0, title: 2, training: 2, minutes: 0
+document_17.txt: entertainment ceremony: 4, actress: 3, oscar: 0, film: 6, series: 0, director: 1, rating: 0, movies: 0
+document_18.txt: graphics fractals: 0, compression: 0, project: 0, design: 0, graphic: 0, visual: 0, processing: 3, image: 1
+document_19.txt: entertainment ceremony: 0, actress: 0, oscar: 0, film: 5, series: 2, director: 2, rating: 0, movies: 1
+document_2.txt: entertainment ceremony: 0, actress: 2, oscar: 0, film: 3, series: 0, director: 2, rating: 0, movies: 1
+document_20.txt: business profit: 1, loss: 0, share: 1, growth: 1, economy: 0, prices: 0, sales: 3, agreement: 0
+document_21.txt: historical ancient: 0, museum: 0, century: 0, ruins: 0, war: 28, treaty: 3, empire: 4
+document_22.txt: space space: 0, launch: 0, complex: 0, intelligence: 0, hazardous: 1, planet: 0, orbit: 0, nasa: 0, government: 1
+document_23.txt: space space: 1, launch: 0, complex: 0, intelligence: 0, hazardous: 0, planet: 2, orbit: 3, nasa: 0, government: 0
+document_24.txt: historical ancient: 4, museum: 9, century: 0, ruins: 0, war: 0, treaty: 0, empire: 0
+document_25.txt: business profit: 0, loss: 0, share: 0, growth: 5, economy: 4, prices: 2, sales: 0, agreement: 0
+document_26.txt: entertainment ceremony: 0, actress: 0, oscar: 0, film: 5, series: 1, director: 0, rating: 3, movies: 0
+document_27.txt: sports medal: 0, record: 0, score: 0, participate: 1, world: 1, team: 2, title: 0, training: 1, minutes: 0
+document_28.txt: space space: 0, launch: 0, complex: 0, intelligence: 0, hazardous: 0, planet: 0, orbit: 0, nasa: 3, government: 0
+document_29.txt: entertainment ceremony: 0, actress: 0, oscar: 0, film: 0, series: 1, director: 0, rating: 0, movies: 0
+document_3.txt: sports medal: 1, record: 1, score: 0, participate: 0, world: 5, team: 0, title: 4, training: 1, minutes: 0
+document_30.txt: historical ancient: 15, museum: 9, century: 0, ruins: 0, war: 0, treaty: 0, empire: 0
+document_31.txt: business profit: 2, loss: 1, share: 1, growth: 0, economy: 0, prices: 0, sales: 0, agreement: 0
+document_32.txt: sports medal: 0, record: 0, score: 1, participate: 0, world: 0, team: 0, title: 0, training: 0, minutes: 6
+document_33.txt: entertainment ceremony: 0, actress: 0, oscar: 0, film: 0, series: 0, director: 1, rating: 0, movies: 0
+document_34.txt: medical physician: 0, infection: 1, patient: 0, care: 0, health: 0, disease: 0, diagnosis: 0, doctor: 1, medicine: 0
+document_35.txt: medical physician: 0, infection: 0, patient: 0, care: 0, health: 0, disease: 0, diagnosis: 0, doctor: 3, medicine: 2
+document_36.txt: entertainment ceremony: 0, actress: 1, oscar: 2, film: 5, series: 0, director: 1, rating: 0, movies: 0
+document_37.txt: business profit: 1, loss: 2, share: 0, growth: 0, economy: 0, prices: 0, sales: 4, agreement: 2
+document_38.txt: historical ancient: 0, museum: 1, century: 0, ruins: 0, war: 3, treaty: 0, empire: 0
+document_4.txt: medical physician: 0, infection: 5, patient: 0, care: 0, health: 7, disease: 5, diagnosis: 1, doctor: 0, medicine: 0
+document_5.txt: graphics fractals: 0, compression: 0, project: 0, design: 9, graphic: 7, visual: 4, processing: 0, image: 0
+document_6.txt: graphics fractals: 0, compression: 0, project: 0, design: 1, graphic: 1, visual: 0, processing: 0, image: 5
+document_7.txt: graphics fractals: 0, compression: 0, project: 0, design: 2, graphic: 5, visual: 0, processing: 0, image: 1
+document_8.txt: sports medal: 0, record: 0, score: 0, participate: 0, world: 0, team: 0, title: 0, training: 3, minutes: 0
+document_9.txt: business profit: 0, loss: 0, share: 0, growth: 1, economy: 2, prices: 1, sales: 0, agreement: 0
